@@ -1,0 +1,15 @@
+.footer{
+    margin: 0 auto;
+    margin-top: 17px;
+    padding: 7px;
+    background: transparent;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+.footer span{
+    text-shadow: 1px 1px 3px #fff;
+}
